@@ -1,4 +1,4 @@
-# **FUTBot**
+# **AtletiQ**
 
 Este é um aplicativo web desenvolvido em Python com Streamlit que utiliza técnicas de web scraping e machine learning para analisar e prever resultados de partidas do Campeonato Brasileiro de Futebol.
 
