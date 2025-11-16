@@ -30,7 +30,7 @@ streamlit run app.py
 * **Confrontos Históricos (Head-to-Head):** A base de dados que hoje está no arquivo .csv será migrada para uma tabela no banco.  
 * **Estatísticas de Jogadores:** O desempenho de todos os jogadores a cada temporada.
 
-### **O Papel do Web Scraping (Pós-Migração):**
+### **O Papel do Web Scraping:**
 
 O web scraper continuará sendo essencial, mas seu papel mudará: ele será usado exclusivamente para **obter os dados da última rodada** (placares de jogos que acabaram de acontecer e estatísticas atualizadas dos jogadores) e alimentar o banco de dados. Ele não será mais necessário para construir o conjunto de dados do zero a cada execução do app.
 
